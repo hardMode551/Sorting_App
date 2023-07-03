@@ -9,7 +9,7 @@
 - Выполните следующую команду:
 
 ```sh
-git clone https://github.com/hardMode551/sorting-app.git
+git clone https://github.com/hardMode551/Sorting_App.git
 ```
 
 ## Установка зависимостей
